@@ -1,0 +1,807 @@
+STAT MONTH2015030 SEQ 01
+1DJDE JDE=C1PART,JDL=SYSOUT,COPIES=05,END;                                                                                           
+1(USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    1
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                                EDUCATION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      350,286       359,923       377,475       355,011
+0DOLLAR VALUE OF ACCOUNTS            406,208,014   411,542,797   422,976,992   412,370,555
+     PRINCIPAL                       405,558,292   410,886,692   422,305,934   411,689,045
+     INTEREST                            356,505       356,696       359,739       361,032
+     ADMINISTRATIVE COSTS                293,217       299,409       311,319       320,478
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                   60,191        49,611        39,750        46,595                                    196,147
+0DOLLAR VALUE OF ACCOUNTS             51,193,451    39,437,483    36,965,742    44,900,234                                172,496,910
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS             50,531        32,028        62,107        46,459                                    191,125
+     PAID IN FULL                         20,413        17,607        19,423        16,437                                     73,880
+     WAIVER (FULL)                           244           196           180           181                                        801
+     WAIVER (PARTIAL)                         20            31            24            28                                        103
+     MISCELLANEOUS WRITE-OFFS (07D)           13             1           108             0                                        122
+     BANKRUPTCY (O7E)                          0             0             0             0                                          0
+     DEATH (O7F)                              17             3            21            19                                         60
+     COMPROMISES (O7H)                         0             0             0             2                                          2
+     DELETED IN HINES (08Q,59G,59Q)       30,095        14,418        42,556        30,049                                    117,118
+     DELETED BY CARS (06E,08E,08P)             3             2             8            11                                         24
+     OTHER DECREASES                      59,505        34,349        74,577        61,527                                    229,958
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                         273           219           208           256                                        956
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                        19            20            19            16                                         74
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    2
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                                EDUCATION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                       45,893,743    28,034,794    47,609,281    37,444,655                                158,982,473
+     PRINCIPAL                        45,864,675    28,016,611    47,582,401    37,415,583                                158,879,270
+     INTEREST                              8,280         4,593         7,300         7,469                                     27,642
+     ADMINISTRATIVE COST                  20,788        13,590        19,580        21,603                                     75,561
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                          342,948       444,619       316,084       312,912                                  1,416,563
+     PRINCIPAL                           342,948       444,619       316,084       312,912                                  1,416,563
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                         27,010        46,368        38,161        70,527                                    182,066
+     PRINCIPAL                            27,010        46,368        38,161        70,527                                    182,066
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                     2,960         3,000       143,915             0                                    149,875
+     PRINCIPAL                             2,960         3,000       140,712             0                                    146,672
+     INTEREST                                  0             0         1,144             0                                      1,144
+     ADMINISTRATIVE COST                       0             0         2,059             0                                      2,059
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                              0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                              17,469         6,774        17,601        17,237                                     59,081
+     PRINCIPAL                            17,469         6,774        17,533        17,231                                     59,007
+     INTEREST                                  0             0            26             0                                         26
+     ADMINISTRATIVE COST                       0             0            42             6                                         48
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                             0             0             0        13,141                                     13,141
+     PRINCIPAL                                 0             0             0        13,141                                     13,141
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    3
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                                EDUCATION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)       13,304,343     7,949,349    14,792,789    11,465,996                                 47,512,477
+     PRINCIPAL                        13,297,688     7,944,346    14,788,279    11,461,427                                 47,491,740
+     INTEREST                                745           678           467           447                                      2,337
+     ADMINISTRATIVE COST                   5,910         4,325         4,043         4,122                                     18,400
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)                11           348         1,695            93                                      2,147
+     PRINCIPAL                                11           348         1,695            93                                      2,147
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)    14,614,239     8,758,269    18,090,027    15,051,490                                 56,514,025
+     PRINCIPAL                        14,604,464     8,752,965    18,082,609    15,043,009                                 56,483,047
+     INTEREST                              2,861         1,498         1,862         2,407                                      8,628
+     ADMINISTRATIVE COST                   6,914         3,806         5,556         6,074                                     22,350
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)     9,099,786     8,417,842     8,164,043     8,746,341                                 34,428,012
+     PRINCIPAL                         9,099,786     8,417,842     8,164,043     8,746,341                                 34,428,012
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                           421           473           365           250                                      1,509
+     PRINCIPAL                               167           198           165            88                                        618
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                     254           275           200           162                                        891
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER         26,684,128    19,243,436    22,372,687    19,259,350                                 87,559,601
+     PRINCIPAL                        26,671,744    19,235,835    22,361,206    19,243,496                                 87,512,281
+     INTEREST                              4,674         2,417         3,801         4,615                                     15,507
+     ADMINISTRATIVE COST                   7,710         5,184         7,680        11,239                                     31,813
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    4
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                                EDUCATION - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      359,946       377,506       355,118       355,147
+0DOLLAR VALUE OF ACCOUNTS            411,507,722   422,945,486   412,333,453   419,826,134
+     PRINCIPAL                       410,887,068   422,307,564   411,689,275   419,173,696
+     INTEREST                            348,225       352,103       352,439       353,563
+     ADMINISTRATIVE COSTS                272,429       285,819       291,739       298,875
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    5
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                 COMPENSATION AND PENSION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      145,012       145,305       147,200       145,939
+0DOLLAR VALUE OF ACCOUNTS          1,263,113,797 1,280,247,144 1,279,443,131 1,268,955,130
+     PRINCIPAL                     1,263,113,797 1,280,247,144 1,279,443,131 1,268,955,130
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                   16,302        16,131        15,428        19,529                                     67,390
+0DOLLAR VALUE OF ACCOUNTS             69,569,180    48,693,686    49,164,117    66,044,463                                233,471,446
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS             15,878        14,126        16,529        24,509                                     71,042
+     PAID IN FULL                          4,213         3,131         3,757         3,846                                     14,947
+     WAIVER (FULL)                           963           839           602         1,099                                      3,503
+     WAIVER (PARTIAL)                        117            74            66           108                                        365
+     MISCELLANEOUS WRITE-OFFS (07D)            9             1           709             0                                        719
+     BANKRUPTCY (O7E)                         22            24             9            13                                         68
+     DEATH (O7F)                             565           615           956           633                                      2,769
+     COMPROMISES (O7H)                         7             1             0             2                                         10
+     DELETED IN HINES (08Q,59G,59Q)        9,694         9,070        10,263        10,235                                     39,262
+     DELETED BY CARS (06E,08E,08P)           462           464           278         8,722                                      9,926
+     OTHER DECREASES                      37,514        38,467        39,653        39,881                                    155,515
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                         103            72            96           103                                        374
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                        46            53            51            62                                        212
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    6
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                 COMPENSATION AND PENSION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                       52,424,439    49,450,699    59,651,865    73,225,787                                234,752,790
+     PRINCIPAL                        52,424,439    49,450,699    59,651,865    73,225,787                                234,752,790
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                       10,744,225    10,701,475     8,505,946    17,586,799                                 47,538,445
+     PRINCIPAL                        10,744,225    10,701,475     8,505,946    17,586,799                                 47,538,445
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                      1,486,692       871,876     1,004,003     1,947,988                                  5,310,559
+     PRINCIPAL                         1,486,692       871,876     1,004,003     1,947,988                                  5,310,559
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                       794        80,050     5,454,866             0                                  5,535,710
+     PRINCIPAL                               794        80,050     5,454,866             0                                  5,535,710
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                        368,612       416,137       287,477       313,500                                  1,385,726
+     PRINCIPAL                           368,612       416,137       287,477       313,500                                  1,385,726
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                           3,172,952     3,882,911     5,153,224     2,651,965                                 14,861,052
+     PRINCIPAL                         3,172,952     3,882,911     5,153,224     2,651,965                                 14,861,052
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                        96,738         7,605             0        15,003                                    119,346
+     PRINCIPAL                            96,738         7,605             0        15,003                                    119,346
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    7
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                 COMPENSATION AND PENSION - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)       14,171,424    13,215,739    15,803,470    15,471,334                                 58,661,967
+     PRINCIPAL                        14,171,424    13,215,739    15,803,470    15,471,334                                 58,661,967
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)         1,248,806     1,200,705       465,290    13,650,611                                 16,565,412
+     PRINCIPAL                         1,248,806     1,200,705       465,290    13,650,611                                 16,565,412
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)    17,488,393    17,376,826    18,986,144    18,354,548                                 72,205,911
+     PRINCIPAL                        17,488,393    17,376,826    18,986,144    18,354,548                                 72,205,911
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)     7,367,169     7,476,073     6,050,560     6,933,771                                 27,827,573
+     PRINCIPAL                         7,367,169     7,476,073     6,050,560     6,933,771                                 27,827,573
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                           402           399           458           392                                      1,651
+     PRINCIPAL                               402           399           458           392                                      1,651
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER         11,012,570     9,173,049    10,041,547    10,167,418                                 40,394,584
+     PRINCIPAL                        11,012,570     9,173,049    10,041,547    10,167,418                                 40,394,584
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    8
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                 COMPENSATION AND PENSION - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      145,436       147,310       146,099       140,959
+0DOLLAR VALUE OF ACCOUNTS          1,280,258,538 1,279,490,131 1,268,955,383 1,261,773,806
+     PRINCIPAL                     1,280,258,538 1,279,490,131 1,268,955,383 1,261,773,806
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE    9
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                            LOAN GUARANTY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                        4,217         4,131         4,192         4,116
+0DOLLAR VALUE OF ACCOUNTS             61,002,279    59,577,042    60,446,699    59,153,959
+     PRINCIPAL                        27,302,842    26,320,621    26,701,878    25,828,646
+     INTEREST                         33,699,437    33,256,421    33,744,821    33,325,313
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                        3           121             1           162                                        287
+0DOLLAR VALUE OF ACCOUNTS                 69,541     2,151,343         3,017     2,932,785                                  5,156,686
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS                 70           170            73           199                                        512
+     PAID IN FULL                              3             3             6             1                                         13
+     WAIVER (FULL)                             0             0             0             0                                          0
+     WAIVER (PARTIAL)                         18            13             9             5                                         45
+     MISCELLANEOUS WRITE-OFFS (07D)            0             0             0             0                                          0
+     BANKRUPTCY (O7E)                          0             0             0             0                                          0
+     DEATH (O7F)                               0             0             0             0                                          0
+     COMPROMISES (O7H)                         0             0             0             0                                          0
+     DELETED IN HINES (08Q,59G,59Q)           65           167            66           199                                        497
+     DELETED BY CARS (06E,08E,08P)             4             2             1             0                                          7
+     OTHER DECREASES                       3,608         3,558         3,501         3,543                                     14,210
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                           2             2             0             1                                          5
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                         0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   10
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                            LOAN GUARANTY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                        1,405,071     1,281,686     1,264,276     1,008,878                                  4,959,911
+     PRINCIPAL                         1,023,670       948,274       876,230       769,450                                  3,617,624
+     INTEREST                            381,401       333,412       388,046       239,428                                  1,342,287
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                        291,764       206,595       136,572        98,429                                    733,360
+     PRINCIPAL                           291,764       206,595       136,572        98,429                                    733,360
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                         0             0        55,689             0                                     55,689
+     PRINCIPAL                                 0             0        55,689             0                                     55,689
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                         24,866        23,634        11,444        69,343                                    129,287
+     PRINCIPAL                            24,866        23,634        11,444        69,343                                    129,287
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                               5,328        16,292        13,553             0                                     35,173
+     PRINCIPAL                             5,328        16,292        13,553             0                                     35,173
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                             0        15,895             0             0                                     15,895
+     PRINCIPAL                                 0        15,895             0             0                                     15,895
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   11
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                            LOAN GUARANTY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)          264,846       216,719       274,327       106,068                                    861,960
+     PRINCIPAL                            41,355        54,051        34,157         5,665                                    135,228
+     INTEREST                            223,491       162,668       240,170       100,403                                    726,732
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)            17,770         9,819         1,959             0                                     29,548
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                             17,770         9,819         1,959             0                                     29,548
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)       893,323       882,297       828,153       838,679                                  3,442,452
+     PRINCIPAL                           675,568       649,251       612,238       612,702                                  2,549,759
+     INTEREST                            217,755       233,046       215,915       225,977                                    892,693
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)       135,940       113,147       124,242       127,498                                    500,827
+     PRINCIPAL                            33,286        33,466        28,074        28,903                                    123,729
+     INTEREST                            102,654        79,681        96,168        98,595                                    377,098
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER             43,114        23,582        66,821        23,857                                    157,374
+     PRINCIPAL                            18,075        16,022        40,651        12,214                                     86,962
+     INTEREST                             25,039         7,560        26,170        11,643                                     70,412
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   12
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                            LOAN GUARANTY - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                        4,150         4,082         4,120         4,079
+0DOLLAR VALUE OF ACCOUNTS             59,666,749    60,446,699    59,185,440    61,077,866
+     PRINCIPAL                        26,320,622    26,701,877    25,828,645    26,824,587
+     INTEREST                         33,346,127    33,744,822    33,356,795    34,253,279
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   13
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             DIRECT LOANS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                            0             0             0             0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0
+     PRINCIPAL                                 0             0             0             0
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                        0             0             0             0                                          0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0                                          0
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS                  0             0             0             0                                          0
+     PAID IN FULL                              0             0             0             0                                          0
+     WAIVER (FULL)                             0             0             0             0                                          0
+     WAIVER (PARTIAL)                          0             0             0             0                                          0
+     MISCELLANEOUS WRITE-OFFS (07D)            0             0             0             0                                          0
+     BANKRUPTCY (O7E)                          0             0             0             0                                          0
+     DEATH (O7F)                               0             0             0             0                                          0
+     COMPROMISES (O7H)                         0             0             0             0                                          0
+     DELETED IN HINES (08Q,59G,59Q)            0             0             0             0                                          0
+     DELETED BY CARS (06E,08E,08P)             0             0             0             0                                          0
+     OTHER DECREASES                           0             0             0             0                                          0
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                           0             0             0             0                                          0
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                         0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   14
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             DIRECT LOANS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                              0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                         0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                              0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                                   0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   15
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             DIRECT LOANS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)                 0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER                  0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   16
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             DIRECT LOANS - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                            0             0             0             0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0
+     PRINCIPAL                                 0             0             0             0
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   17
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             OTHER AGENCY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                            0             0             0             0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0
+     PRINCIPAL                                 0             0             0             0
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                        0             0             0             0                                          0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0                                          0
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS                  0             0             0             0                                          0
+     PAID IN FULL                              0             0             0             0                                          0
+     WAIVER (FULL)                             0             0             0             0                                          0
+     WAIVER (PARTIAL)                          0             0             0             0                                          0
+     MISCELLANEOUS WRITE-OFFS (07D)            0             0             0             0                                          0
+     BANKRUPTCY (O7E)                          0             0             0             0                                          0
+     DEATH (O7F)                               0             0             0             0                                          0
+     COMPROMISES (O7H)                         0             0             0             0                                          0
+     DELETED IN HINES (08Q,59G,59Q)            0             0             0             0                                          0
+     DELETED BY CARS (06E,08E,08P)             0             0             0             0                                          0
+     OTHER DECREASES                           0             0             0             0                                          0
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                           0             0             0             0                                          0
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                         0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   18
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             OTHER AGENCY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                              0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                         0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                              0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                                   0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   19
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             OTHER AGENCY - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)                0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)                 0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                             0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER                  0             0             0             0                                          0
+     PRINCIPAL                                 0             0             0             0                                          0
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   20
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             OTHER AGENCY - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                            0             0             0             0
+0DOLLAR VALUE OF ACCOUNTS                      0             0             0             0
+     PRINCIPAL                                 0             0             0             0
+     INTEREST                                  0             0             0             0
+     ADMINISTRATIVE COSTS                      0             0             0             0
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   21
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             ALL ACCOUNTS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---BEGINNING BALANCES---                OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      499,515       509,359       528,867       505,066
+0DOLLAR VALUE OF ACCOUNTS          1,730,324,090 1,751,366,983 1,762,866,822 1,740,479,644
+     PRINCIPAL                     1,695,974,931 1,717,454,457 1,728,450,943 1,706,472,821
+     INTEREST                         34,055,942    33,613,117    34,104,560    33,686,345
+     ADMINISTRATIVE COSTS                293,217       299,409       311,319       320,478
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+----ESTABLISHMENTS---
+0NUMBER OF NEW ACCOUNTS                   76,496        65,863        55,179        66,286                                    263,824
+0DOLLAR VALUE OF ACCOUNTS            120,832,172    90,282,512    86,132,876   113,877,482                                411,125,042
+
+ ---NUMBER OF DISPOSITIONS---
+0TOTAL NUMBER OF DISPOSITIONS             66,479        46,324        78,709        71,167                                    262,679
+     PAID IN FULL                         24,629        20,741        23,186        20,284                                     88,840
+     WAIVER (FULL)                         1,207         1,035           782         1,280                                      4,304
+     WAIVER (PARTIAL)                        155           118            99           141                                        513
+     MISCELLANEOUS WRITE-OFFS (07D)           22             2           817             0                                        841
+     BANKRUPTCY (O7E)                         22            24             9            13                                         68
+     DEATH (O7F)                             582           618           977           652                                      2,829
+     COMPROMISES (O7H)                         7             1             0             4                                         12
+     DELETED IN HINES (08Q,59G,59Q)       39,854        23,655        52,885        40,483                                    156,877
+     DELETED BY CARS (06E,08E,08P)           469           468           287         8,733                                      9,957
+     OTHER DECREASES                     100,627        76,374       117,731       104,951                                    399,683
+       (06E,08E,08Q,08P)
+     OTHER INCREASES                         378           293           304           360                                      1,335
+       (04Q,04E,06L,04P)
+     SYSTEM WRITE-OFFS                        65            73            70            78                                        286
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   22
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             ALL ACCOUNTS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ TOTAL DOLLAR VALUE OF
+   DISPOSITIONS                       99,723,253    78,767,179   108,525,422   111,679,320                                398,695,174
+     PRINCIPAL                        99,312,784    78,415,584   108,110,496   111,410,820                                397,249,684
+     INTEREST                            389,681       338,005       395,346       246,897                                  1,369,929
+     ADMINISTRATIVE COST                  20,788        13,590        19,580        21,603                                     75,561
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+0WAIVERS (FULL)                       11,087,173    11,146,094     8,822,030    17,899,711                                 48,955,008
+     PRINCIPAL                        11,087,173    11,146,094     8,822,030    17,899,711                                 48,955,008
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ WAIVER (PARTIAL)                      1,805,466     1,124,839     1,178,736     2,116,944                                  6,225,985
+     PRINCIPAL                         1,805,466     1,124,839     1,178,736     2,116,944                                  6,225,985
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ MISC WRITE-OFFS (07D)                     3,754        83,050     5,654,470             0                                  5,741,274
+     PRINCIPAL                             3,754        83,050     5,651,267             0                                  5,738,071
+     INTEREST                                  0             0         1,144             0                                      1,144
+     ADMINISTRATIVE COST                       0             0         2,059             0                                      2,059
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ BANKRUPTCY (07E)                        393,478       439,771       298,921       382,843                                  1,515,013
+     PRINCIPAL                           393,478       439,771       298,921       382,843                                  1,515,013
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DEATH (07F)                           3,195,749     3,905,977     5,184,378     2,669,202                                 14,955,306
+     PRINCIPAL                         3,195,749     3,905,977     5,184,310     2,669,196                                 14,955,232
+     INTEREST                                  0             0            26             0                                         26
+     ADMINISTRATIVE COST                       0             0            42             6                                         48
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ COMPROMISES (07H)                        96,738        23,500             0        28,144                                    148,382
+     PRINCIPAL                            96,738        23,500             0        28,144                                    148,382
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   23
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             ALL ACCOUNTS - OCTOBER    1, 2014 -   JANUARY 31 2015
+0---DOLLAR VALUE OF DISPOSITIONS---      OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+ DELETED IN HINES (08Q,59G,59Q)       27,740,613    21,381,807    30,870,586    27,043,398                                107,036,404
+     PRINCIPAL                        27,510,467    21,214,136    30,625,906    26,938,426                                106,288,935
+     INTEREST                            224,236       163,346       240,637       100,850                                    729,069
+     ADMINISTRATIVE COST                   5,910         4,325         4,043         4,122                                     18,400
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ DELETED BY CARS (06E,08E,08P)         1,266,587     1,210,872       468,944    13,650,704                                 16,597,107
+     PRINCIPAL                         1,248,817     1,201,053       466,985    13,650,704                                 16,567,559
+     INTEREST                             17,770         9,819         1,959             0                                     29,548
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER DECREASES (06E,08E,08Q,08P)    32,995,955    27,017,392    37,904,324    34,244,717                                132,162,388
+     PRINCIPAL                        32,768,425    26,779,042    37,680,991    34,010,259                                131,238,717
+     INTEREST                            220,616       234,544       217,777       228,384                                    901,321
+     ADMINISTRATIVE COST                   6,914         3,806         5,556         6,074                                     22,350
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ OTHER INCREASES (04Q,04E,06L,04P)    16,602,895    16,007,062    14,338,845    15,807,610                                 62,756,412
+     PRINCIPAL                        16,500,241    15,927,381    14,242,677    15,709,015                                 62,379,314
+     INTEREST                            102,654        79,681        96,168        98,595                                    377,098
+     ADMINISTRATIVE COST                       0             0             0             0                                          0
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+ SYSTEM WRITE-OFFS                           823           872           823           642                                      3,160
+     PRINCIPAL                               569           597           623           480                                      2,269
+     INTEREST                                  0             0             0             0                                          0
+     ADMINISTRATIVE COST                     254           275           200           162                                        891
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+----DOLLAR VALUE OF COLLECTIONS---
+ TOTAL APPLIED TO CARS MASTER         37,739,812    28,440,067    32,481,055    29,450,625                                128,111,559
+     PRINCIPAL                        37,702,389    28,424,906    32,443,404    29,423,128                                127,993,827
+     INTEREST                             29,713         9,977        29,971        16,258                                     85,919
+     ADMINISTRATIVE COST                   7,710         5,184         7,680        11,239                                     31,813
+     COURT COST                                0             0             0             0                                          0
+     MARSHAL FEES                              0             0             0             0                                          0
+1 
+ (USVA/CARS)  DATE 01/30/2015     *** D E P A R T M E N T  O F  V E T E R A N S  A F F A I R S  ***                         PAGE   24
+0                                                   CARS MONTHLY TOTALS - PART I                                       COIN/CARS 0022
+                                             ALL ACCOUNTS - OCTOBER    1, 2014 -   JANUARY 31 2015
+----ENDING BALANCES---                   OCTOBER      NOVEMBER      DECEMBER       JANUARY      FEBRUARY         MARCH   YEAR TO DATE
+-NUMBER OF ACCOUNTS                      509,532       528,898       505,337       500,185
+0DOLLAR VALUE OF ACCOUNTS          1,751,433,009 1,762,882,316 1,740,474,276 1,742,677,806
+     PRINCIPAL                     1,717,466,228 1,728,499,572 1,706,473,303 1,707,772,089
+     INTEREST                         33,694,352    34,096,925    33,709,234    34,606,842
+     ADMINISTRATIVE COSTS                272,429       285,819       291,739       298,875
+     COURT COST                                0             0             0             0
+     MARSHAL FEES                              0             0             0             0
+1DJDE JDE=C1PART,JDL=SYSOUT,COPIES=04,END;                                                                                           
+1

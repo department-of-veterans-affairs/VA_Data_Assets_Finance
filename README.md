@@ -1,2 +1,2 @@
 # VA_Data_Assets_Finance
-Assets for the Office of Finance, Data Quality Service requested by Maggie Cook (FDQS) and Lisa Mavrogianis (OPP) for May quarterly IDC reporting.
+Assets for the Office of Finance, Data Quality Service requested by Maggie Cook (FDQS) and Lisa Mavrogianis (OPP). This repository is controlled by the Department of Veterans Affairs (VA) Office of Information and Technology (OI&T) Open Data group.  All data assets in this repository have been reviewed and approved by a Privacy Officer; they have been posted at the request of the relevant VA office.  Questions or comments can be addressed to Michael Miti-Kavuma (michael.miti-kavuma@va.gov).
